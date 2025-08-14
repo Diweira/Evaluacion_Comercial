@@ -5,3 +5,6 @@ xlsxwriter
 numpy
 os
 datatime
+streamlit
+tqdm
+
